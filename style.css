@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+  }
+  
+  .item {
+    flex: 1; /* Hace que los divs ocupen el mismo espacio disponible */
+    border: 1px solid black;
+    padding: 10px;
+  }
